@@ -1,5 +1,5 @@
 # Todo-list-app
-<a> A simple todo list app built in Flutter.
+<a> A simple todo list app built in Flutter to help organize yours tasks.
 ## Requeriments
  * [Flutter](https://flutter.dev/)
  * [Android Studio](https://developer.android.com/studio)
