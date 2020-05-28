@@ -5,4 +5,4 @@
  * [Android Studio](https://developer.android.com/studio)
  
 ## Build Step (dev)
-<a>First `create` and `run android` emulator. In a terminal, type the following command `flutter run` and have fun.
+<a>First `create` and `run android` emulator. In a terminal, type the following commands `flutter pub get` next `flutter run` and have fun.
